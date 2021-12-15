@@ -1,0 +1,14 @@
+.terrarium ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.terrarium li {
+  font-size: larger;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+.terrarium li h1 {
+  color: brown;
+}

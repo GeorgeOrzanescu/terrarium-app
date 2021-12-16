@@ -35,6 +35,7 @@ const AvailableTerrariums = (props) => {
   const terrariumsList = DUMMY_TERRARIUMS.map((terrarium) => (
     <TerrariumItem
       name={terrarium.name}
+      id={terrarium.id}
       description={terrarium.description}
       price={terrarium.price}
       image={terrarium.image}
